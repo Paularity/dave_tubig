@@ -10,7 +10,7 @@
 
   <!-- This is For Header -->
   <div class="col-md-12" id = "header">
-        <h1>HEADER</h1>
+        <h1>Chot</h1>
   </div>
     <!-- end of header -->
 
